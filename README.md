@@ -39,5 +39,3 @@ Java Sorting Visualizer using *Swing Components | Swing Worker | Graphics 2D
 There are three main indeces here : `current_index`, `traversing_index`, and `selected_index`. Their task is to visually guide the user on the current state of the sorting process. Their uses varies from each Sorting Algorithms.
 The information displayed such as Time Complexities and Space Complexity are being set up in the *SortingAlgorithm* enum.
 Lastly, the only dynamic value on the HUD is the `array_access` which is being updated during the sorting process.
-
-Here's my email : codeitphiliks@gmail.com if you have found a bug or if you have any queries regarding this project.
